@@ -16,7 +16,7 @@ This package is currently early in development, and must be installed
 from this github repo.
 
 ``` r
-devtools::install_github("rdboyes/forester")
+devtools::install_github("yuanlinm/forester_shaped")
 ```
 
 ## Basic Usage
