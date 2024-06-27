@@ -550,7 +550,7 @@ forester <- function(left_side_data,
   if (!(render_as == "rmarkdown")) {
     ggplot2::ggsave(
          dpi = dpi,
-         height = png_height + nudge_height + 1,
+         height = png_height + nudge_height + 10,
          width = png_width + nudge_width,
          units = "in",
          filename = file_path,
